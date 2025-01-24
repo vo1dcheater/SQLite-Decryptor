@@ -1,3 +1,5 @@
 pycryptodome>=3.19.1
 pywin32>=306
 keyring>=24.3.0
+tkinter
+pyinstaller>=6.11.1

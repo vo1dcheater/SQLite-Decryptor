@@ -72,6 +72,10 @@ SQLite-Decryptor/
    pyinstaller sqlite_decrypt_gui.spec
    ```
 
+## Support and Contact
+
+If you need help or have questions, you can reach me on Telegram: [https://t.me/voidcheater](https://t.me/voidcheater)
+
 ## License
 
 MIT License - Feel free to use and modify!
